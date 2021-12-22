@@ -14,6 +14,9 @@ const TopNavigation = () => {
         <Link to="/gallery">
           <Btn>gallery</Btn>
         </Link>
+        <Link to="/test">
+          <Btn>test</Btn>
+        </Link>
       </Right>
     </Container>
   );

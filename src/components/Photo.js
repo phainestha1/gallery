@@ -10,17 +10,17 @@ import cherryBlossom from "../assets/cherryBlossom.jpg";
 export const photos = [
   {
     url: ultimaCena,
-    title: "Ultima Cena, 2020",
+    title: "Ultima Cena",
     description: "The last pizza before leaving.",
   },
   {
     url: autumnFamily,
-    title: "Family, 2019",
+    title: "Family",
     description: "Happy people in the golden road.",
   },
   {
     url: sunsetTwoChairs,
-    title: "Sunset, 2019",
+    title: "Sunset",
     description: "The sun will set for you.",
   },
   {
