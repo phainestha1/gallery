@@ -10,12 +10,12 @@ const Gallery = () => {
   const handleMouse = (event) => {
     setDescription(true);
     setUrl("/gallery" + event.target.src.slice(21));
-    console.log(url);
   };
   const leaveMouse = () => {
     setDescription(false);
     setUrl("");
   };
+  console.log(url);
 
   return (
     <Container>
