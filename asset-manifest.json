@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gallery/static/css/main.64ec43c3.css",
+    "main.js": "/gallery/static/js/main.559196ee.js",
+    "static/media/autumnFamily.jpg": "/gallery/static/media/autumnFamily.0082e2a41f9ce1966ea5.jpg",
+    "static/media/mayRooftop.jpg": "/gallery/static/media/mayRooftop.a9fd9d079d2540d27589.jpg",
+    "static/media/soloRiding.jpg": "/gallery/static/media/soloRiding.08ef78a1b39fbbffcfb5.jpg",
+    "static/media/backGreen.jpg": "/gallery/static/media/backGreen.7e2d248829fecc6e8cdd.jpg",
+    "static/media/ultimaCena.jpg": "/gallery/static/media/ultimaCena.b58e829d1be75c1eaa8d.jpg",
+    "static/media/boating.jpg": "/gallery/static/media/boating.b6a09f3ab21ddcd0b43a.jpg",
+    "static/media/cherryBlossom.jpg": "/gallery/static/media/cherryBlossom.284afd531ba8f312646d.jpg",
+    "static/media/sunsetTwoChairs.jpg": "/gallery/static/media/sunsetTwoChairs.11fdef76992cfa3ad195.jpg",
+    "index.html": "/gallery/index.html",
+    "main.64ec43c3.css.map": "/gallery/static/css/main.64ec43c3.css.map",
+    "main.559196ee.js.map": "/gallery/static/js/main.559196ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64ec43c3.css",
+    "static/js/main.559196ee.js"
+  ]
+}
