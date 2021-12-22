@@ -1,8 +1,6 @@
 import React from "react";
 import styled from "styled-components";
 import TopNavigation from "../components/TopNavigation";
-import { Link } from "react-router-dom";
-import redLight from "../assets/redLight.jpeg";
 import ultimaCena from "../assets/ultimaCena.jpg";
 import autumnFamily from "../assets/autumnFamily.jpg";
 import sunsetTwoChairs from "../assets/sunsetTwoChairs.jpg";
@@ -45,15 +43,12 @@ function Home() {
               </h3>
             </IntroLeftTop>
             <IntroLeftBottom>
-              <Link
-                className="link"
-                to="https://www.instagram.com/phainestha1/"
-              >
+              <a className="link" href="https://www.instagram.com/phainestha1/">
                 <AiOutlineInstagram />
-              </Link>
-              <Link className="link" to="https://github.com/phainestha1">
+              </a>
+              <a className="link" href="https://github.com/phainestha1">
                 <AiOutlineGithub />
-              </Link>
+              </a>
             </IntroLeftBottom>
           </Intro>
           <Slide>
