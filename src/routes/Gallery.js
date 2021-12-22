@@ -9,7 +9,7 @@ const Gallery = () => {
 
   const handleMouse = (event) => {
     setDescription(true);
-    setUrl("/gallery" + event.target.src.slice(21));
+    setUrl(event.target.src.slice(29));
   };
   const leaveMouse = () => {
     setDescription(false);
